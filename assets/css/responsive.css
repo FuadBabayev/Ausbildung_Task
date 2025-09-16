@@ -1,0 +1,125 @@
+@media only screen and (min-width: 1200px) and (max-width: 1399.98px) {
+    .container {
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+
+    .pages a,
+    a.link {
+        min-width: 150px;
+    }
+
+    .form-box {
+        width: 450px;
+        padding: 30px;
+    }
+
+    h2 {
+        font: 600 34px/45px "Poppins SemiBold", sans-serif;
+    }
+
+    h1 {
+        font: 400 50px/70px 'Poppins', sans-serif;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .container {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .pages a,
+    a.link {
+        min-width: 150px;
+    }
+
+    .form-box {
+        width: 450px;
+        padding: 30px;
+    }
+
+    h2 {
+        font: 600 34px/45px "Poppins SemiBold", sans-serif;
+    }
+
+    h1 {
+        font: 400 50px/70px 'Poppins', sans-serif;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .pages a,
+    a.link {
+        min-width: 150px;
+    }
+
+    .form-box {
+        width: 450px;
+        padding: 30px;
+    }
+
+    h2 {
+        font: 600 34px/45px "Poppins SemiBold", sans-serif;
+    }
+
+    h1 {
+        font: 400 50px/70px 'Poppins', sans-serif;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    .container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .pages a,
+    a.link {
+        min-width: 150px;
+    }
+
+    .form-box {
+        width: 450px;
+        padding: 30px;
+    }
+
+    h2 {
+        font: 600 34px/45px "Poppins SemiBold", sans-serif;
+    }
+
+    h1 {
+        font: 400 40px/60px 'Poppins', sans-serif;
+    }
+}
+
+@media only screen and (max-width: 575.98px) {
+    .container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .pages a,
+    a.link {
+        min-width: 150px;
+    }
+
+    .form-box {
+        min-width: 300px;
+        width: 340px;
+        padding: 25px 20px;
+    }
+
+    h2 {
+        font: 600 32px/42px "Poppins SemiBold", sans-serif;
+    }
+
+    h1 {
+        font: 400 36px/54px 'Poppins', sans-serif;
+    }
+}
